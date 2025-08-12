@@ -1,4 +1,4 @@
-# Duplicate Data Detection and Removal using TF-IDF in Python
+# Duplicate Data Detection using MACHINE LEARNING 
 
 ## 📌 Description
 This machine learning mini project detects and removes duplicate or highly similar text entries from a dataset using **TF-IDF (Term Frequency–Inverse Document Frequency)** and **cosine similarity**. The implementation is done in Python, ensuring efficient text vectorization and comparison. This approach improves data quality for analytics and Natural Language Processing (NLP) tasks.
